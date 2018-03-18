@@ -2126,6 +2126,6 @@ svg.Gear {
     color: white;
 }
 .theme-light .mention:hover {
-    background: var( --channels-hover); 
+    background: var(--channels-selected); 
    color: white;
 }
