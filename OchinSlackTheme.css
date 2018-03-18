@@ -2125,3 +2125,7 @@ svg.Gear {
 .theme-light .itemHover-3rojsB {
     color: white;
 }
+.theme-light .mention:hover {
+    background: var( --channels-hover); 
+   color: white;
+}
